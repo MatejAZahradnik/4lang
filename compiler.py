@@ -18,7 +18,7 @@ class compiler:
     def translate(self):
         syntax = {
                 "kek":"int", "smol":"short", "copypasta ":"char", "mod":"class", "rule34":"enum", "tfw":"if",
-                "/b":"main", "an hero":"~", "pools closed":"}", "pools open":"{", "newfag": "new", "mod":"class",
+                "/b":"main", "an hero":"~ ", "pools closed":"}", "pools open":"{", "newfag": "new", "mod":"class",
                 "dox":"return", "post":"puts", "rickroll":"*", "gib me ":"#include <", " plz":">", "wft":"else"
                 }
         for x,y in syntax.items():
