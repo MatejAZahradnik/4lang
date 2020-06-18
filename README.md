@@ -16,4 +16,4 @@ comp.writefile("test.c") # create file test.c and write source in c to it
 
 only thing you need to do to run this code is adding compiler.py file to directory you want to compile in and add relative import.
 
-This kind of translation has a lot of limitstions and translates without context, for example if you use "/b" in string (char array pointer) the result will be "main" instead of "/b", because it translates headlessly, just like google translator so have that limitations in mind, whem writing code. This will be fixed in future by adding some advanced parser. 
+This kind of translation has a lot of limitstions and translates without context, for example if you use "/b" in string (char array pointer) the result will be "main" instead of "/b", because it translates headlessly, just like google translator so have that limitations in mind, when writing code. This will be fixed in future by adding some advanced parser. 
