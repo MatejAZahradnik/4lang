@@ -13,3 +13,5 @@ comp.readfile() # Read file you have given as argument in compiler object
 comp.translate() # Translate the test.4lang sourcecode to C/C++
 comp.writefile("test.c") # create file test.c and write source in c to it
 ```
+
+only thing you need to do, to run this code is adding compiler.py file to directory you want to compile in.
