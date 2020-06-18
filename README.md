@@ -1,5 +1,5 @@
 # 4lang
-Ezoteric programming language based on 4chan slang, translate "4lang" to C or C++.
+Esoteric programming language based on 4chan slang, translate "4lang" to C or C++.
 
 compiler is python3 class, so you need a python3 program, that you run and it translate given file to c/c++ file
 
